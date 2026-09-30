@@ -3,13 +3,13 @@ Aspiring Data Analyst from Abuja, Nigeria /passionate about turning data into bu
 ## About ME
 I help small businesses understand their sales, inventory, and customers using data.
 I turn raw data into clear insights.
-### Skills:
+## Skills:
 Excel / GoogleSheetS / SQL / Power BI / Python
 ## What I Do:
 Sales & Business Performance Analysis
 Inventory Tracking systerm
 Building simple Dashboards for business owners
-My Projects:
+## My Projects:
 Check my pinned repositories below
 Connect with me:
 LinkedIn: (
