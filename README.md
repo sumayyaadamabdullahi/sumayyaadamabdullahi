@@ -18,7 +18,7 @@ I help small businesses understand their sales, inventory, and customers using d
 
 #### 📫 Connect with me
 - **LinkedIn:** (add your link here)
-- **Email:** sumayyaadamabdullahi15@gmail.com
+- **Email:** sumayyaadamabdullahi75@gmail.com
 
 ---
 Thanks for visiting my profile! ⭐
